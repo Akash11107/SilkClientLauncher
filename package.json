@@ -1,0 +1,27 @@
+{
+  "name": "silk-client-launcher",
+  "version": "1.0.0",
+  "description": "A Silk Client Launcher",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "colors": "^1.4.0",
+    "colours": "^0.6.0-2",
+    "elctron": "^0.0.1-security",
+    "minecraft-launcher-core": "^3.18.1",
+    "msmc": "^5.0.5"
+  }
+}
